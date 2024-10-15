@@ -1,0 +1,40 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Repos\\Coursera-test1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E570009A-AD92-4563-B336-E61E1A693877}|Coursera-test1.esproj|d:\\repos\\coursera-test1\\coursera-test1.esproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{E570009A-AD92-4563-B336-E61E1A693877}|Coursera-test1.esproj|solutionrelative:coursera-test1.esproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Coursera-test1",
+              "DocumentMoniker": "D:\\Repos\\Coursera-test1\\Coursera-test1.esproj",
+              "RelativeDocumentMoniker": "Coursera-test1.esproj",
+              "ToolTip": "D:\\Repos\\Coursera-test1\\Coursera-test1.esproj",
+              "RelativeToolTip": "Coursera-test1.esproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-15T12:08:01.514Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
